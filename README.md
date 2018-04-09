@@ -11,12 +11,12 @@ Simple.
 ### Homework 2: Exception
 Defined two exception classes named *ScoreException*, *StudentNumberException* based on the homework 1. Throw exceptions when the input is invalid.
 
-### Homework 3: Inheritance and Polymorphism(∂‡Ã¨)
+### Homework 3: Inheritance and Polymorphism(Â§öÊÄÅ)
 Use inheritance to define the following 5 classes:
 
 ![pic1](https://user-images.githubusercontent.com/6760674/38498254-5f730206-3c36-11e8-8699-adcf21e659c6.png)
 
-### Homework 4: Collection(»∫ÃÂ∂‘œÛ)
+### Homework 4: Collection(Áæ§‰ΩìÂØπË±°)
 Based on the homework 3, defined a class named *factory* and save all the employees into its HashMap.
 
 ### Homework 5: GUI
