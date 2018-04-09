@@ -1,0 +1,1 @@
+public enum BookType {TeachingMaterial, ComicStrip, ComputerBook, Other}
